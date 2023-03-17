@@ -1,11 +1,11 @@
 # This is the ALX C Projects 
 
 
-Link to The  Projects
+Links to The  Projects
 
 
 
-[ALX 0x00. C - Hello, World ]( https://intranet.alxswe.com/projects/212"0x00. C - Hello, World").
+[ALX 0x00. C - Hello, World ]( https://intranet.alxswe.com/projects/212 "0x00. C - Hello, World")
 
 
 
