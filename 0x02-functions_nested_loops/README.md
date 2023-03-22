@@ -1,4 +1,4 @@
-# This is the ALX Project 0x02. C - Functions, nested loops
+# This is the ALX 0x02. C - Functions, nested loops Project
 
 
 Link to The  Project  [ALX 0x02. C - Functions, nested loops]( https://intranet.alxswe.com/projects/214 "0x02. C - Functions, nested loops").
