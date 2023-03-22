@@ -1,4 +1,4 @@
-# This is the ALX Project 0x03. C - Debugging
+# This is the ALX 0x03. C - Debugging Project
 
 
 
