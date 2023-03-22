@@ -11,6 +11,12 @@ Links to The  Projects
 [ALX 0x01. C - Variables, if, else, while ]( https://intranet.alxswe.com/projects/213 "0x01. C - Variables, if, else, while")
 
 
+[ALX 0x02. C - Functions, nested loops]( https://intranet.alxswe.com/projects/214 "0x02. C - Functions, nested loops")
+
+
+[ALX 0x03. C - Debugging]( https://intranet.alxswe.com/projects/539 "0x03. C - Debugging")
+
+
 
 
 ![ALX]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThj-6LwEss_4wXGp4MS6iy4VL-g40kJEKnsktTkPMR&s"ALX")
