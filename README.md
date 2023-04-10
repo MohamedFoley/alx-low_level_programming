@@ -33,5 +33,12 @@ Links to The  Projects
 [ALX 0x07. C - Even more pointers, arrays and strings]( https://intranet.alxswe.com/projects/218 "0x07. C - Even more pointers, arrays and strings")
 
 
+[ALX 0x08. C - Recursion]( https://intranet.alxswe.com/projects/219 "0x08. C - Recursion")
+
+
+[ALX 0x09. C - Static libraries]( https://intranet.alxswe.com/projects/220 "0x09. C - Static libraries")
+
+
+
 
 ![ALX]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThj-6LwEss_4wXGp4MS6iy4VL-g40kJEKnsktTkPMR&s"ALX")
