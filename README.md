@@ -39,6 +39,9 @@ Links to The  Projects
 [ALX 0x09. C - Static libraries]( https://intranet.alxswe.com/projects/220 "0x09. C - Static libraries")
 
 
+[ALX 0x0A. C - argc, argv]( https://intranet.alxswe.com/projects/221 "0x0A. C - argc, argv")
+
+
 [ALX 0x0B. C - malloc, free]( https://intranet.alxswe.com/projects/222 "0x0B. C - malloc, free")
 
 
