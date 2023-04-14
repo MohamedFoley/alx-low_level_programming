@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 
 int find_len(char *str);
@@ -80,10 +79,10 @@ int get_digit(char c)
  * get_prod - Multiplies a string of numbers by a single digit
  * @prod: buffer to store the result
  * @mult: string of numbers
- * @digit: single digit
+ * @d: single digit
  * @zeroes: number of leading zeroes
  */
-void get_prod(char *prod, char *mult, int digit, int zeroes)
+void get_prod(char *prod, char *mult, int d, int zeroes)
 {
 	int mult_len, num, tens = 0;
 
@@ -112,7 +111,7 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 			exit(98);
 		}
 
-		num = (*mult - '0') * digit;
+		num = (*mult - '0') * d;
 		num += tens;
 		*prod = (num % 10) + '0';
 		tens = num / 10;
