@@ -49,6 +49,11 @@ Links to The  Projects
 [ALX 0x0C. C - More malloc, free]( https://intranet.alxswe.com/projects/223 "0x0C. C - More malloc, free")
 
 
+[ALX 0x0D. C - Preprocessor]( https://intranet.alxswe.com/projects/224 "0x0D. C - Preprocessor")
+
+
+[ALX 0x0E. C - Structures, typedef]( https://intranet.alxswe.com/projects/225 "0x0E. C - Structures, typedef")
+
 
 
 ![ALX]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThj-6LwEss_4wXGp4MS6iy4VL-g40kJEKnsktTkPMR&s"ALX")
